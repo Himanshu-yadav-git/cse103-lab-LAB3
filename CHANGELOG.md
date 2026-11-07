@@ -1,3 +1,6 @@
 # Changelog
 
-_Added main.py and README
+## v1.0 - Initial Release
+
+- Added main.py and README.
+- Added Markdown documentation.
